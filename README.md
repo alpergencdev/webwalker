@@ -23,4 +23,4 @@ and `<DESTINATION_WORD>` is the target word.
 
 # Word lists
 
-The files [words4.txt](./words4.txt) and [words5.txt](./words5.txt) are the word lists used by Weaver (accessed 7/09/2022) which contain words of lengths 4 and 5, respectively.
+The files [words4.txt](./words4.txt) and [words5.txt](./words5.txt) are the official word lists used by Weaver (last updated 7/09/2022) which contain words of lengths 4 and 5, respectively.
